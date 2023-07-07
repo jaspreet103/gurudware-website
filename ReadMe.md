@@ -1,5 +1,5 @@
 ![foo *bar*][foobar]
-[FOOBAR]: image.jpg "train & track"
+[FOOBAR]:image.jpg "train & track"
 
 My name is Jaspreet Singh.
 
